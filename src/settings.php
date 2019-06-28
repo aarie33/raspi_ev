@@ -17,9 +17,9 @@ return [
         ],
         'db' => [
             'host' => 'localhost',
-            'user' => 'root',
-            'pass' => '',
-            'dbname' => 'test',
+            'user' => 'u6566546_test',
+            'pass' => 'testpass',
+            'dbname' => 'u6566546_test',
             'driver' => 'mysql'
         ],
     ],
